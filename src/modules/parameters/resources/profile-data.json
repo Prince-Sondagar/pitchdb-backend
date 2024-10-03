@@ -1,0 +1,91 @@
+[
+    
+  {
+    "label": "Name",
+    "value": "name"
+  },
+  {
+    "label": "Email",
+    "value": "email"
+  },
+  {
+    "label": "Businessname",
+    "value": "businessname"
+  },
+  {
+    "label": "Website",
+    "value": "website"
+  },
+  {
+    "label": "Social Media Link 1",
+    "value": "socialMediaLink1"
+  },
+  {
+    "label": "Social Media Link 2",
+    "value": "socialMediaLink2"
+  },
+  {
+    "label": "Social Media Link 3",
+    "value": "socialMediaLink3"
+  },
+  {
+    "label": "Equipment",
+    "value": "Equipment"
+  },
+  {
+    "label": "Additionalinfo",
+    "value": "additionalinfo"
+  },
+  {
+    "label": "Optional Contact Method",
+    "value": "optionalcontactmethod"
+  },
+  {
+    "label": "Search Genres",
+    "value": "searchGenres"
+  },
+  {
+    "label": "Sub Categories",
+    "value": "subcategories"
+  },
+  {
+    "label": "Short Bio",
+    "value": "shortbio"
+  },
+  {
+    "label": "Topics",
+    "value": "topics"
+  },
+  {
+    "label": "Detailed Profile",
+    "value": "detailedprofile"
+  },
+  {
+    "label": "Qualification",
+    "value": "qualification"
+  },
+  {
+    "label": "Audience",
+    "value": "audience"
+  },
+  {
+    "label": "PromotionPlan",
+    "value": "promotionPlan"
+  },
+  {
+    "label": "Sample Question",
+    "value": "sampleQuestion"
+  },
+  {
+    "label": "Ownpodcast",
+    "value": "ownpodcast"
+  },
+  {
+    "label": "Past_Appereance 1",
+    "value": "past_appereance1"
+  },
+  {
+    "label": "Past_Appereance 2",
+    "value": "past_appereance2"
+  }
+]
